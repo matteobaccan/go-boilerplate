@@ -1,2 +1,3 @@
-go build src/hello-world.go
+del hello-world.exe
+go build 
 hello-world.exe

@@ -1,1 +1,1 @@
-go run src/hello-world.go
+go run main.go
